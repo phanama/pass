@@ -1,0 +1,4 @@
+package pass
+
+func Pass() {
+}
